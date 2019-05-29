@@ -3,9 +3,9 @@
  
 Voici quelques balises Markdown basiques:
 
-> On peut écrire en **gras**
-> On peut écrire en *italic*
-> ***Même en gras ET en italic!***
+> On peut écrire en **gras**,
+> aussi en *italic*
+> ***et même en gras ET en italic!***
 ---
 On peut faire une liste de tâches:
 - [x] Faire TP8
