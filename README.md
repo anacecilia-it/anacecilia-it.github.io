@@ -2,9 +2,10 @@
 ## Bienvenue à ma page!
 
 Voici quelques balises Markdown:
-On peut écrire en **gras**
-On peut écrire en *italic*
-***Même en gras ET en italic!***
+
+> On peut écrire en **gras**
+> On peut écrire en *italic*
+> ***Même en gras ET en italic!***
 ---
 On peut faire une liste de tâches:
 - [x] Faire TP8
@@ -12,6 +13,7 @@ On peut faire une liste de tâches:
 - [ ] ÉTUDIER POUR LES EXAMENS
 - [ ] ~s'amuser~ [^1]
 [^1] : après les examens!
+
 ---
 > ### Mes hobbies:
 > - Photographie
