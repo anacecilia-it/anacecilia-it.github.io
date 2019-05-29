@@ -1,11 +1,11 @@
 # anacecilia-it.github.io
 ## Bienvenue à ma page!
+ ba
+Voici quelques balises Markdown basiques:
 
-Voici quelques balises Markdown:
-
-> On peut écrire en **gras**
-> On peut écrire en *italic*
-> ***Même en gras ET en italic!***
+ On peut écrire en **gras**
+ On peut écrire en *italic*
+ ***Même en gras ET en italic!***
 ---
 On peut faire une liste de tâches:
 - [x] Faire TP8
