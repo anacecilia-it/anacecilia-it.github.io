@@ -5,7 +5,7 @@ Voici quelques balises Markdown basiques:
 
 > On peut écrire en **gras**,
 > aussi en *italic*
-> ***et même en gras ET en italic!***
+> ET ***même en gras ET en italic!***
 ---
 On peut faire une liste de tâches:
 - [x] Faire TP8
