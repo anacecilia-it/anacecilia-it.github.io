@@ -11,10 +11,7 @@ On peut faire une liste de tâches:
 - [x] Faire TP8
 - [ ] Faire TP7
 - [ ] ÉTUDIER POUR LES EXAMENS
-- [ ] ~s'amuser~ [^1]
-
-[^1] :après les examens!
-
+- [ ] ~s'amuser~
 ---
 > ### Mes hobbies:
 > - Photographie
